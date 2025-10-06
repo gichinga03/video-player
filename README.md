@@ -1,0 +1,6 @@
+the above program is being refurbished by using apis to make the user experiecne better 
+implementing an andoid application to go with it allowing automatic downloading while on the same newtrok 
+the android application will use java 
+
+also implemnting the use of gemini api to remocnd movies 
+
